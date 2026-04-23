@@ -14,6 +14,7 @@ export function Home() {
                 text="Bu Home sahifa"
             />
 
+
             <Tugma text="Bos" onClick={() => alert("Bosildi!")} />
 
             <img src="/images/logo.png" alt="" />

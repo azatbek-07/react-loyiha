@@ -13,6 +13,8 @@ export function About() {
                 text="Bu sahifada loyiha yoki kompaniya haqida ma'lumot beriladi."
             />
 
+            <h1>salom</h1>
+
             <Tugma text="Bog'lanish" onClick={() => alert("Aloqa!")} />
 
             <Footer />
