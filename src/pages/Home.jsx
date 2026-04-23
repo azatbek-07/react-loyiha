@@ -16,6 +16,8 @@ export function Home() {
 
             <Tugma text="Bos" onClick={() => alert("Bosildi!")} />
 
+            <img src="/images/logo.png" alt="" />
+
             <Footer />
         </div>
     )
